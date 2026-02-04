@@ -1,0 +1,8 @@
+.ipynb_checkpoints/ 
+.env 
+.env.txt 
+__pycache__/ 
+*.exe 
+*.zip 
+*.rar 
+*.lnk 
